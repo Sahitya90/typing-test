@@ -1,0 +1,21 @@
+.app-container{
+    background-color: hsl(27, 9%, 81%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+}
+.timer{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    margin-top: 20px;
+}
+.restart{
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(55, 226, 55);
+    border: 5px solid black;
+    border-radius: 10px;
+}

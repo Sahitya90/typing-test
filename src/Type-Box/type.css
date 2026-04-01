@@ -1,0 +1,12 @@
+.text-area{
+    display: block;
+    width: 350px;
+    height: 200px;
+    background-color: white;
+    margin: 50px auto 0 auto;
+    padding: 10px 10px 10px 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    resize: none;
+}

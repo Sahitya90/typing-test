@@ -1,0 +1,16 @@
+.heading{
+    
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1{
+    font-weight: bold;
+    font-size: 3rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(43, 167, 151);
+}
